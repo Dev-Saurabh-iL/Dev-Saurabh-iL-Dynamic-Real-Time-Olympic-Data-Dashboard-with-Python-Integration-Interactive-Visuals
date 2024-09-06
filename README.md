@@ -1,0 +1,2 @@
+# Dev-Saurabh-iL-Dynamic-Real-Time-Olympic-Data-Dashboard-with-Python-Integration-Interactive-Visuals
+Created an interactive Power BI dashboard for the Paris 2024 Olympics, integrating Python for real-time data fetching. Features include athlete statistics, medal counts, historical insights, animated icons, open/close slicers, country flags, and game icons. Focus on data automation, validation, and visually engaging design.
